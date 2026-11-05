@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "kind": "app",
-  "name": "mistral-workflow",
+  "name": "ai-text-detector",
   "modules": [
     {
       "type": "app",

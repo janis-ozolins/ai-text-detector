@@ -1,5 +1,5 @@
 {
-  "name": "mistral-workflow",
+  "name": "ai-text-detector",
   "private": true,
   "workspaces": {
     "packages": [
