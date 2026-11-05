@@ -2,6 +2,11 @@
   "schemaVersion": 2,
   "kind": "app",
   "name": "ai-text-detector",
+  "deployment": {
+    "organizationId": "c497d07e-eb8e-479b-8048-d60d2d4aebf5",
+    "workspaceId": "5e4ba0f6-5238-4c09-a56a-94e38bd8fbbb",
+    "appId": "01a1adb1-2912-722a-a004-e8dd183d327a"
+  },
   "modules": [
     {
       "type": "app",
